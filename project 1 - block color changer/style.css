@@ -1,0 +1,19 @@
+.mainBlock {
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    background-color: #2d2d2d51;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 1px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.counterPosition {
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 9px;
+}
+.positionX {
+    color: #2d2d2d;
+    font-weight: bolder;
+}
