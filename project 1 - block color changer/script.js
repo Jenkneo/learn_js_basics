@@ -1,3 +1,5 @@
+"use strict";
+
 let block = document.querySelector(".mainBlock")
 let positionTextX = document.querySelector(".positionX")
 let positionTextY = document.querySelector(".positionY")
